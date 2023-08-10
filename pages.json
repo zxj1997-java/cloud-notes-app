@@ -58,7 +58,9 @@
   }, {
     "path": "pages/common/textview/index",
     "style": {
-      "navigationBarTitleText": "浏览文本"
+      "navigationBarTitleText": "浏览文本",
+      "app-plus": {
+      }
     }
   }],
   "tabBar": {

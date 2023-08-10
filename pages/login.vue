@@ -47,7 +47,7 @@
         codeUrl: "",
         captchaEnabled: true,
         // 用户注册开关
-        register: false,
+        register: true,
         globalConfig: getApp().globalData.config,
         loginForm: {
           username: "admin",
